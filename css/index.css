@@ -1,0 +1,431 @@
+*{box-sizing: border-box;}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    clear: both;
+    float: left;
+}
+main{
+    height: 1800px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.jwli{
+    height: 300px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(241, 243, 245);
+}
+.facts{
+    height: 350px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.history{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(241, 243, 245);
+}
+.who{
+    height: 350px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.orgs{
+    height: 300px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.news{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(142, 156, 163);
+}
+
+/*  */
+.intro{
+    height: 300px;
+    width: 60%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.icon{
+    height: 300px;
+    width: 40%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.logo{
+    height: 125px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.quote{
+    height: 175px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.empower{
+    height: 150px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.develop{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.skills{
+    height: 100px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.participation{
+    height: 100px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.foster{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.text{
+    height: 400px;
+    width: 60%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.flashback{
+    height: 400px;
+    width: 40%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.topPic{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.bottomPic{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.weAre{
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.asian{
+    height: 250px;
+    width: 30%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.founder{
+    height: 250px;
+    width: 70%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.fishFamily{
+    height: 300px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.simmons{
+    height: 300px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.signup{
+    height: 100px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.newsletter{
+    height: 100px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.copyright{
+    height: 50px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(184, 197, 208)
+}
+.cc{
+    height: 50px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.social{
+    height: 50px;
+    width: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.directory{
+    height: 150px;
+    width: 100%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.home{
+    height: 150px;
+    width: 20%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.program{
+    height: 150px;
+    width: 20%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.more{
+    height: 150px;
+    width: 20%;
+    /* border: 1px solid black; */
+    float: left;
+}
+.contact{
+    height: 150px;
+    width: 40%;
+    /* border: 1px solid black; */
+    float: left;
+}
+
+/* images */
+.logo img{
+    height: 88%;
+    width: 40%;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+.icon img{
+    height: 100%;
+    margin-left: 30%;
+}
+.flashback img{
+    height: 90%;
+    margin-left: 27%;
+    margin-top: 1%;
+}
+.asian img{
+    height: 90%;
+    margin-left: 27%;
+    margin-top: 1%;
+}
+.fishFamily img{
+    height: 15%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.simmons img{
+    height: 15%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+/* content edits */
+header li{
+    float: left;
+    list-style: none;
+    margin-left: 9%;
+    margin-top: 2%;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+header button{
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.quote h2{
+    margin-left: 24%;
+}
+.quote p{
+    margin-left: 11%;
+    margin-bottom: 1%;
+}
+.quote input{
+    margin-left: 28%;
+}
+.facts p{
+    margin-left: 8%;
+    font-size: 1.1rem;
+}
+.empower h3{
+    margin-left: 11%;
+    font-size: 1.7rem;
+    margin-top: 3%;
+}
+.foster p{
+    margin-left: 17%;
+    font-style: italic;
+}
+.weAre h3{
+    margin-left: 44%;
+    margin-top: 2%;
+    font-size: 2rem;
+}
+.cc p{
+    margin-left: 20%;
+    color: white
+}
+.social li{
+    float: left;
+    list-style: none;
+    margin-left: 13%;
+}
+.social a{
+    color: white;
+    text-decoration: none;
+}
+.directory li{
+    list-style: none;
+}
+.directory a{
+    color: white;
+    text-decoration: none;
+}
+.contact li{
+    float: left;
+    margin-left: 12%;
+}
+.newsletter button{
+    float: left;
+}
+
+/* media quiries */
+@media (max-width: 1230px){
+    .quote p{
+        margin-left: 1%;
+        margin-bottom: 1%;}
+    .quote h2{
+        margin-left: 9%;
+        margin-bottom: -1%
+    }
+    .quote input{
+        margin-left: 10%;
+    }
+    .history h3{
+        margin-bottom: -1%;
+        margin-top: 1%;}
+    .history p{font-size: .9rem;}
+    .founder p{font-size: .9rem;}
+    .orgs p{font-size: .9rem;}
+    .cc p{margin-left: 3%;}
+    header li{margin-left: 7%}
+    .icon img{margin-left: 15%;}
+}
+@media (max-width: 900px){
+    footer{display: none;}
+    .text{width: 75%;}
+    .flashback{width: 25%;}
+    .flashback img{
+        height: 54%;
+        margin-left: 8%;
+        margin-top: 14%;}
+    .weAre h3{margin-left: 37%;}
+    .quote p{font-size: .9rem;}
+    .quote h2{
+        font-size: 1.2rem;
+        margin-left: 1%;
+    }
+    .empower h3{margin-left: 3%;}
+    .asian{width: 20%;}
+    .founder{width: 80%;}
+    .asian img{
+        height: 54%;
+        margin-left: 12%;
+        margin-top: 38%;
+    }
+    .founder h4{
+        margin-top: 1%;
+        margin-bottom: -1%
+    }
+    .icon img{
+        height: 80%;
+        margin-top: 19%;
+    }
+}
+@media (max-width: 720px){
+    .icon{display: none;}
+    .intro{
+        width: 100%;
+        text-align: center;
+    }
+    .intro img{margin-left: 0%;}
+    .develop p{
+        margin-left: 0%;
+        margin-top: 4%;
+    }
+    .develop{text-align: center;}
+    .foster p{margin-left: 0%;}
+    .foster{text-align: center;}
+    .empower h2{margin-left: 0%;}
+    .empower{text-align: center;}
+    .flashback{display: none;}
+    .history{width: 100%;}
+    .text{width: 100%;}
+    .news{display: none;}
+    .weAre{height: 50px;}
+    .weAre h3{
+        margin-left: 36%;
+        margin-top: 1%;
+    }
+    .who{height: 550px;}
+    .asian{
+        width: 100%;
+        text-align: center;}
+    .asian img{
+        height: 100%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .founder{width: 100%;}
+    header button{display: none;}
+    main{height: 1900px;}
+}
